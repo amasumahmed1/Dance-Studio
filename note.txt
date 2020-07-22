@@ -1,0 +1,79 @@
+ 
+Demo link : https://amasumahmed1.github.io/Dance-Studio/
+
+
+
+
+
+
+<div data-view="toggleItemDescription">
+        <div class="js-item-description item-description has-toggle">
+          <div class="user-html user-html__with-lazy-load"><p>Dance-Studio HTML Template</p>
+
+        <p>Dance-Studio is a modern and super clean business HTML template.</p>
+
+        <p>It includes all the necessary functionality to present Registration services online. Dance-Studio Power
+        template is extremely easy customizable.</p><br>
+
+
+ <h2 id="item-description__main-features">Main Features</h2>
+<ul>
+    <li>Clean and Modern Design</li>
+    <li>HTML5, CSS3, jQuery</li>
+    <li>100% Responsive</li>
+    <li>Easy to Customize</li>
+    <li>W3 Validation</li>
+    <li>Minimal and Clean</li>
+    <li>HTML CSS JS Included</li>
+    <li>Fonts Awesome Icons</li>
+    <li>Free Google Fonts</li>
+    <li>All files are well commented</li>
+    <li>Well Documentation</li>
+</ul>
+
+<h2 id="item-description__what-do-you-get">What do you get?</h2>
+<ul>
+    <li>HTML content.</li>
+    <li>Included Documentation.</li>
+</ul>
+<h2 id="item-description__sources-and-credits">Sources and Credits:</h2>
+<ul>
+    <li>jQuery</li>
+    <li>bootstrap</li>
+    <li>owl.carousel</li>
+    <li>Animated</li>
+    <li>WOW js</li>
+</ul>
+<h2 id="item-description__font">Font:</h2>
+<ul>
+    <li>Roboto</li>
+</ul>
+<h2 id="item-description__images">Images:</h2>
+<ul>
+    <li><a href="https://www.pexels.com/" rel="nofollow">Pexels</a></li>
+    <li><a href="https://www.unsplash.com/" rel="nofollow">Unspalsh</a></li>
+</ul>
+<h2 id="item-description__note">Note:</h2>
+<ul>
+    <li>Images are only for demo purpose and not included your images</li>
+</ul>
+<p>If you purchase this template, you will get support for a life time.
+
+Images are not included in the download file!
+</p>
+</div>
+</div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        

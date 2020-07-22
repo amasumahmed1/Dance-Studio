@@ -1,0 +1,235 @@
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+   
+.about-area .section-title p {
+    padding: 0 185px;
+}
+
+.about-content {
+    padding-left: 146px;
+}
+
+.work-area .section-title p.sec {
+    padding: 0 190px;
+}
+.work-area .about-img img {
+    margin-left: 20px;
+}
+
+.work-area .about-content {
+    padding-right: 146px;
+}
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+.slider-content h2 {
+    font-size: 100px;
+    line-height: 110px;
+}
+.slider-content h3 {
+    font-size: 100px;
+}
+.slider-wrapper {
+    padding-top: 175px;
+}
+.about-area .section-title p {
+    padding: 0 95px;
+}
+.about-content {
+    margin-top: 30px;
+    padding-left: 44px;
+    padding-right: 0;
+}
+.work-area .section-title p.sec {
+    padding: 0 80px;
+}
+.work-area .about-img img {
+    width: 100%;
+    margin-left: 5px;
+}
+.work-area .about-content {
+    margin-top: 30px;
+    padding-right: 44px;
+}
+.about-content p {
+    padding-right: 0;
+}
+.section-title p {
+    padding: 0 35px;
+}
+.footer-content p {
+    padding: 0;
+}
+
+}
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.slider-content h2 {
+    font-size: 80px;
+    line-height: 80px;
+}
+.slider-content h3 {
+    font-size: 81px;
+    line-height: 120px;
+}
+.slider-img img {
+    width: 100%;
+}
+.slider-wrapper {
+    padding: 145px 0;
+}
+.about-area .section-title p {
+    padding: 0 140px;
+    margin-bottom: -100px;
+}
+.about-area {
+    padding-top: 65px;
+}
+.section-title p {
+    padding: 0 75px;
+}
+.work-area {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.work-area .section-title p.sec {
+    padding: 0 130px;
+}
+.work-area .about-img img {
+    margin-left: 56px;
+}
+.work-area .about-content {
+    margin-top: 30px;
+}
+.pricing-title p {
+    font-size: 15px;
+    padding: 0 5px;
+}
+.blog-content h3 {
+    font-size: 22px;
+}
+.blog-content p {
+    font-size: 15px;
+    line-height: 21px;
+    margin: 18px 0;
+}
+.contact-wrapper {
+    padding: 40px 5px;
+}
+.footer-content p {
+    padding: 0;
+}
+.footer-area-top {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+}
+
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+.slider-content h2 {
+    font-size: 80px;
+    line-height: 80px;
+}
+
+.slider-content h3 {
+    font-size: 81px;
+    line-height: 120px;
+}
+
+.slider-img {
+    display: none;
+}
+.slider-wrapper {
+    padding: 50px 0;
+}
+.slider-content h2 {
+    font-size: 60px;
+    line-height: 28px;
+}
+.slider-content h3 {
+    font-size: 60px;
+    line-height: 95px;
+}
+.slider-content span {
+    padding-top: 0;
+    padding-bottom: 35px;
+    font-size: 22px;
+}
+.about-area {
+    padding-top: 50px;
+}
+.section-title h2 {
+    font-size: 26px;
+}
+.about-area .section-title p {
+    font-size: 13px;
+    padding: 0 14px;
+}
+.about-content {
+    padding: 18px;
+    padding-left: 20px;
+    margin-top: 0px;
+    border-radius: 0 15px 15px 0;
+    margin-right: 70px;
+}
+.about-content p {
+    margin-bottom: 10px;
+    padding-right: 0px;
+    font-size: 13px;
+}
+.section-title p {
+    font-size: 13px;
+    padding: 0 10px;
+    margin-bottom: 50px;
+}
+.work-area .section-title p.sec {
+    padding: 0 25px;
+}
+.work-area .about-img img {
+    margin-left: 0;
+    width: 100%;
+}
+.work-area .about-content {
+    padding: 20px;
+    padding-right: 0;
+    margin-top: 0;
+}
+.work-area {
+    padding: 50px 0;
+}
+.footer-area-top {
+    padding: 50px 0;
+}
+.footer-content p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 14px;
+    padding: 0px;
+    line-height: 1.4;
+}
+.footer-area-bottom p {
+    font-size: 11px;
+}
+ 
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+.services-wrapper {
+    padding: 35px 10px;
+}
+
+}

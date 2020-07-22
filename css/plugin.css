@@ -1,0 +1,64 @@
+
+/* scroll-header */
+
+.scroll-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #6D2B70;
+    z-index: 999;
+}
+
+/* scrollUp */
+
+a#scrollUp {
+    bottom: 10px;
+    right: 20px;
+    width: 45px;
+    height: 45px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 45px;
+    font-size: 30px;
+    color: #fff;
+    background: #6D2B70;
+}
+
+
+
+.mean-container .mean-nav {
+    float: left;
+    width: 100%;
+    background: #0c1923;
+    margin-top: -5px;
+}
+.mean-container .mean-nav {
+    background: #181148;
+}
+.mean-container a.meanmenu-reveal {
+    top: -65px;
+    right: 20px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
